@@ -11660,6 +11660,16 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
     display: block
 }
 
+.block-30 {
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 600px;
+    position: relative;
+    display: block
+}
+
 @media (min-width: 768px) {
     .blog-entry {
         margin-bottom: 30px
