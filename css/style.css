@@ -10841,7 +10841,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
     bottom: 0;
     content: '';
     opacity: .3;
-    background: #f1453d
+    background: #748eb2
 }
 
 .hero-wrap.hero-wrap-2 {
@@ -12947,4 +12947,8 @@ textarea.form-control {
 
 .pricing-entry h3 {
     height: 55px;
+}
+
+z_zhankai{
+    font-size: small;
 }
