@@ -6727,7 +6727,7 @@ a.bg-success:hover, a.bg-success:focus, button.bg-success:hover, button.bg-succe
 }
 
 .bg-info {
-    background-color: #17a2b8 !important
+    background-color: rgba(183, 190, 192, 0.84) !important
 }
 
 a.bg-info:hover, a.bg-info:focus, button.bg-info:hover, button.bg-info:focus {
@@ -11650,6 +11650,16 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
     transition: all .3s ease
 }
 
+.block-15 {
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 150px;
+    position: relative;
+    display: block
+}
+
 .block-20 {
     overflow: hidden;
     background-size: cover;
@@ -11666,6 +11676,15 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
     background-repeat: no-repeat;
     background-position: center center;
     height: 600px;
+    position: relative;
+    display: block
+}
+.block-40 {
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1000px;
     position: relative;
     display: block
 }
