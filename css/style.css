@@ -12978,6 +12978,26 @@ textarea.form-control {
     text-align: center;
 }
 
+
+
+.suscribete_form .text {
+    position: relative;
+    border-top: 0;
+    border-radius: 2px
+}
+
+.suscribete_form .text .heading {
+    margin-bottom: 16px
+}
+
+.suscribete_form .text .heading a {
+    color: #fffffa
+}
+
+.suscribete_form .text .heading a:hover, .blog-entry .text .heading a:focus, .blog-entry .text .heading a:active {
+    color: #1eaaf1
+}
+
 .pricing-entry h3 {
     height: 55px;
 }
