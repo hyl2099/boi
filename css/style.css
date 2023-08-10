@@ -11721,6 +11721,19 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
     color: #1eaaf1
 }
 
+.blog-entry .text .para {
+    font-size: 16px;
+    margin-bottom: 16px
+}
+
+.blog-entry .text .para a {
+    color: #7e7e7f
+}
+
+.blog-entry .text .para a:hover, .blog-entry .text .para a:focus, .blog-entry .text .para a:active {
+    color: #1eaaf1
+}
+
 .blog-entry .text .meta-chat {
     color: #b3b3b3
 }
