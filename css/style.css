@@ -11735,6 +11735,16 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
     display: block
 }
 
+.block-25 {
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 400px;
+    position: relative;
+    display: block
+}
+
 .block-30 {
     overflow: hidden;
     background-size: cover;
